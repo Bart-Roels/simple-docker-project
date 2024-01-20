@@ -1,2 +1,2 @@
 # simple-docker-project
-Simple docker project for deploying using ansible and terraform
+Simple docker-compose project to test how to deploy this via ansible and terraform
