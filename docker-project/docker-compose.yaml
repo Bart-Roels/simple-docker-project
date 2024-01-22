@@ -2,6 +2,6 @@ version: '3.9'
 
 services:
   web:
-    build: code/Dockerfile
+    build: code
     ports:
       - '80:80'
